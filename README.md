@@ -30,7 +30,9 @@ CUDA编程加速说明：前处理resize和BGR2RGB、后处理decode、affine和
 TensorRT加速说明：模型转换为onnx格式后，量化到INT8精度
 
 前处理和后处理CUDA加速，INT8模型推理加速
+
 ![CUDA加速](https://raw.githubusercontent.com/allrivertosea/YOLOv5-model-quantization-and-inference/main/data/前处理和后处理CUDA编程加速.png)
 
 前处理和后处理CPU，INT8模型推理加速
+
 ![CPU计算](https://raw.githubusercontent.com/allrivertosea/YOLOv5-model-quantization-and-inference/main/data/前处理和后处理CPU.png)
