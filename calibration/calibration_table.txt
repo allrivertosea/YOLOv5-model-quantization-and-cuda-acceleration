@@ -1,0 +1,211 @@
+TRT-8601-MinMaxCalibration
+input0: 3c4fee2a
+/model.0/conv/Conv_output_0: 3f908026
+/model.0/act/Relu_output_0: 3f908026
+/model.1/conv/Conv_output_0: 3fb0321f
+/model.1/act/Relu_output_0: 3fb0321f
+/model.2/cv1/conv/Conv_output_0: 3efc68f7
+/model.2/cv1/act/Relu_output_0: 3e2409a5
+/model.2/m/m.0/cv1/conv/Conv_output_0: 3ee1570c
+/model.2/m/m.0/cv1/act/Relu_output_0: 3e439cf4
+/model.2/m/m.0/cv2/conv/Conv_output_0: 3e7d7089
+/model.2/m/m.0/cv2/act/Relu_output_0: 3e6d8567
+/model.2/m/m.0/Add_output_0: 3e8df8eb
+/model.2/cv2/conv/Conv_output_0: 3f81ed8f
+/model.2/cv2/act/Relu_output_0: 3ec41307
+/model.2/Concat_output_0: 3ec41307
+/model.2/cv3/conv/Conv_output_0: 3e804ccf
+/model.2/cv3/act/Relu_output_0: 3e75d374
+/model.3/conv/Conv_output_0: 3e17e318
+/model.3/act/Relu_output_0: 3de5c3c4
+/model.4/cv1/conv/Conv_output_0: 3d6168ea
+/model.4/cv1/act/Relu_output_0: 3d6168ea
+/model.4/m/m.0/cv1/conv/Conv_output_0: 3dd5ac16
+/model.4/m/m.0/cv1/act/Relu_output_0: 3dd5ac16
+/model.4/m/m.0/cv2/conv/Conv_output_0: 3dce6363
+/model.4/m/m.0/cv2/act/Relu_output_0: 3d8146e0
+/model.4/m/m.0/Add_output_0: 3dd60daf
+/model.4/m/m.1/cv1/conv/Conv_output_0: 3da02250
+/model.4/m/m.1/cv1/act/Relu_output_0: 3d6cb0a7
+/model.4/m/m.1/cv2/conv/Conv_output_0: 3dc50f9e
+/model.4/m/m.1/cv2/act/Relu_output_0: 3db9e343
+/model.4/m/m.1/Add_output_0: 3ded7204
+/model.4/cv2/conv/Conv_output_0: 3e23a23e
+/model.4/cv2/act/Relu_output_0: 3e23a23e
+/model.4/Concat_output_0: 3e23a23e
+/model.4/cv3/conv/Conv_output_0: 3da6f69d
+/model.4/cv3/act/Relu_output_0: 3d2c6c55
+/model.5/conv/Conv_output_0: 3e0b15af
+/model.5/act/Relu_output_0: 3d75fce5
+/model.6/cv1/conv/Conv_output_0: 3cfe47e7
+/model.6/cv1/act/Relu_output_0: 3cb248db
+/model.6/m/m.0/cv1/conv/Conv_output_0: 3d8b0c69
+/model.6/m/m.0/cv1/act/Relu_output_0: 3d8b0c69
+/model.6/m/m.0/cv2/conv/Conv_output_0: 3d1f857f
+/model.6/m/m.0/cv2/act/Relu_output_0: 3d012f26
+/model.6/m/m.0/Add_output_0: 3d11c241
+/model.6/m/m.1/cv1/conv/Conv_output_0: 3d6a2b8c
+/model.6/m/m.1/cv1/act/Relu_output_0: 3d5d5fd4
+/model.6/m/m.1/cv2/conv/Conv_output_0: 3d538726
+/model.6/m/m.1/cv2/act/Relu_output_0: 3d538726
+/model.6/m/m.1/Add_output_0: 3d7f5952
+/model.6/m/m.2/cv1/conv/Conv_output_0: 3d9d4a8a
+/model.6/m/m.2/cv1/act/Relu_output_0: 3d9d4a8a
+/model.6/m/m.2/cv2/conv/Conv_output_0: 3defa393
+/model.6/m/m.2/cv2/act/Relu_output_0: 3defa393
+/model.6/m/m.2/Add_output_0: 3dfb11e4
+/model.6/cv2/conv/Conv_output_0: 3ddd3753
+/model.6/cv2/act/Relu_output_0: 3ddd3753
+/model.6/Concat_output_0: 3dfb11e4
+/model.6/cv3/conv/Conv_output_0: 3d7c6f7d
+/model.6/cv3/act/Relu_output_0: 3d6d0293
+/model.7/conv/Conv_output_0: 3d7cd9f2
+/model.7/act/Relu_output_0: 3d77eba7
+/model.8/cv1/conv/Conv_output_0: 3d5a79a8
+/model.8/cv1/act/Relu_output_0: 3cf9b99e
+/model.8/m/m.0/cv1/conv/Conv_output_0: 3dbf0b35
+/model.8/m/m.0/cv1/act/Relu_output_0: 3dbf0b35
+/model.8/m/m.0/cv2/conv/Conv_output_0: 3daa0a4f
+/model.8/m/m.0/cv2/act/Relu_output_0: 3daa0a4f
+/model.8/m/m.0/Add_output_0: 3daa0a4f
+/model.8/cv2/conv/Conv_output_0: 3da19185
+/model.8/cv2/act/Relu_output_0: 3da19185
+/model.8/Concat_output_0: 3daa0a4f
+/model.8/cv3/conv/Conv_output_0: 3d957d68
+/model.8/cv3/act/Relu_output_0: 3d627546
+/model.9/cv1/conv/Conv_output_0: 3d4c9397
+/model.9/cv1/act/Relu_output_0: 3d4c9397
+/model.9/m/MaxPool_output_0: 3d4c9397
+/model.9/m_1/MaxPool_output_0: 3d4c9397
+/model.9/m_2/MaxPool_output_0: 3d4c9397
+/model.9/Concat_output_0: 3d4c9397
+/model.9/cv2/conv/Conv_output_0: 3d67673c
+/model.9/cv2/act/Relu_output_0: 3d3107d7
+/model.10/conv/Conv_output_0: 3da90169
+/model.10/act/Relu_output_0: 3da90169
+/model.11/ConvTranspose_output_0: 3c6ab26b
+/model.12/Concat_output_0: 3d6d0293
+/model.13/cv1/conv/Conv_output_0: 3d711fde
+/model.13/cv1/act/Relu_output_0: 3d341ac6
+/model.13/m/m.0/cv1/conv/Conv_output_0: 3d9e1462
+/model.13/m/m.0/cv1/act/Relu_output_0: 3d9e1462
+/model.13/m/m.0/cv2/conv/Conv_output_0: 3d865023
+/model.13/m/m.0/cv2/act/Relu_output_0: 3d81a3b5
+/model.13/cv2/conv/Conv_output_0: 3d5e4af8
+/model.13/cv2/act/Relu_output_0: 3d5e4af8
+/model.13/Concat_output_0: 3d81a3b5
+/model.13/cv3/conv/Conv_output_0: 3d847177
+/model.13/cv3/act/Relu_output_0: 3d847177
+/model.14/conv/Conv_output_0: 3e066f76
+/model.14/act/Relu_output_0: 3e066f76
+/model.15/ConvTranspose_output_0: 3ce86549
+/model.16/Concat_output_0: 3d2c6c55
+/model.17/cv1/conv/Conv_output_0: 3d77691f
+/model.17/cv1/act/Relu_output_0: 3d35e568
+/model.17/m/m.0/cv1/conv/Conv_output_0: 3d88ca03
+/model.17/m/m.0/cv1/act/Relu_output_0: 3d1f84f5
+/model.17/m/m.0/cv2/conv/Conv_output_0: 3e315170
+/model.17/m/m.0/cv2/act/Relu_output_0: 3dcbefb9
+/model.17/cv2/conv/Conv_output_0: 3e187841
+/model.17/cv2/act/Relu_output_0: 3e187841
+/model.17/Concat_output_0: 3e187841
+/model.17/cv3/conv/Conv_output_0: 3eff51f9
+/model.17/cv3/act/Relu_output_0: 3e1f939b
+/model.18/conv/Conv_output_0: 3dc94bf8
+/model.18/act/Relu_output_0: 3dc94bf8
+/model.19/Concat_output_0: 3e066f76
+/model.20/cv1/conv/Conv_output_0: 3da8bf1f
+/model.20/cv1/act/Relu_output_0: 3d8d12bf
+/model.20/m/m.0/cv1/conv/Conv_output_0: 3ddff065
+/model.20/m/m.0/cv1/act/Relu_output_0: 3d5c2701
+/model.20/m/m.0/cv2/conv/Conv_output_0: 3e1e4c53
+/model.20/m/m.0/cv2/act/Relu_output_0: 3ddd2dc6
+/model.20/cv2/conv/Conv_output_0: 3e1d63cf
+/model.20/cv2/act/Relu_output_0: 3e1d63cf
+/model.20/Concat_output_0: 3e1d63cf
+/model.20/cv3/conv/Conv_output_0: 3eae96db
+/model.20/cv3/act/Relu_output_0: 3e129f8f
+/model.21/conv/Conv_output_0: 3dc27a09
+/model.21/act/Relu_output_0: 3dc27a09
+/model.22/Concat_output_0: 3dc27a09
+/model.23/cv1/conv/Conv_output_0: 3dc2aab9
+/model.23/cv1/act/Relu_output_0: 3dc18e0e
+/model.23/m/m.0/cv1/conv/Conv_output_0: 3e15664c
+/model.23/m/m.0/cv1/act/Relu_output_0: 3d55c89c
+/model.23/m/m.0/cv2/conv/Conv_output_0: 3e126d57
+/model.23/m/m.0/cv2/act/Relu_output_0: 3de1975f
+/model.23/cv2/conv/Conv_output_0: 3d858979
+/model.23/cv2/act/Relu_output_0: 3d2cebf7
+/model.23/Concat_output_0: 3de1975f
+/model.23/cv3/conv/Conv_output_0: 3e190e90
+/model.23/cv3/act/Relu_output_0: 3e190e90
+/model.24/m.0/Conv_output_0: 3e3eb24e
+/model.24/Reshape_output_0: 3e3eb24e
+/model.24/Transpose_output_0: 3e3eb24e
+/model.24/Sigmoid_output_0: 3c00fd13
+/model.24/Slice_output_0: 3bfe1500
+(Unnamed Layer* 145) [Shuffle]_output: 3c810204
+/model.24/Mul_2_output_0: 3c7e1500
+(Unnamed Layer* 148) [Shuffle]_output: 3b810204
+/model.24/Sub_output_0: 3c3d93fe
+(Unnamed Layer* 150) [Constant]_output: 3efdfbf8
+/model.24/Add_output_0: 3f00ef20
+(Unnamed Layer* 153) [Shuffle]_output: 3d810204
+/model.24/Mul_3_output_0: 4080ef20
+/model.24/ScatterND_output_0: 4080ef20
+/model.24/Slice_3_output_0: 3c00fd13
+(Unnamed Layer* 158) [Shuffle]_output: 3c810204
+/model.24/Mul_9_output_0: 3c80fd13
+(Unnamed Layer* 160) [Shuffle]_output: 3c810204
+/model.24/Pow_output_0: 3d00f822
+(Unnamed Layer* 162) [Constant]_output: 3dc18306
+/model.24/Mul_10_output_0: 3ebbfea7
+/model.24/ScatterND_1_output_0: 4080ef20
+/model.24/Reshape_3_output_0: 4080ef20
+/model.24/m.1/Conv_output_0: 3e198ded
+/model.24/Reshape_4_output_0: 3e198ded
+/model.24/Transpose_1_output_0: 3e198ded
+/model.24/Sigmoid_1_output_0: 3c00e907
+/model.24/Slice_6_output_0: 3bfda2a9
+(Unnamed Layer* 172) [Shuffle]_output: 3c810204
+/model.24/Mul_18_output_0: 3c7da2a9
+(Unnamed Layer* 174) [Shuffle]_output: 3b810204
+/model.24/Sub_1_output_0: 3c3d21a7
+(Unnamed Layer* 176) [Constant]_output: 3e79f3e8
+/model.24/Add_1_output_0: 3e8055d3
+(Unnamed Layer* 179) [Shuffle]_output: 3e010204
+/model.24/Mul_19_output_0: 408055d3
+/model.24/ScatterND_2_output_0: 408055d3
+/model.24/Slice_9_output_0: 3c00e907
+(Unnamed Layer* 184) [Shuffle]_output: 3c810204
+/model.24/Mul_25_output_0: 3c80e907
+(Unnamed Layer* 186) [Shuffle]_output: 3c810204
+/model.24/Pow_1_output_0: 3d00d00e
+(Unnamed Layer* 188) [Constant]_output: 3e912245
+/model.24/Mul_26_output_0: 3f8315d8
+/model.24/ScatterND_3_output_0: 408055d3
+/model.24/Reshape_7_output_0: 408055d3
+/model.24/m.2/Conv_output_0: 3e0aff55
+/model.24/Reshape_8_output_0: 3e0aff55
+/model.24/Transpose_2_output_0: 3e0aff55
+/model.24/Sigmoid_2_output_0: 3c00ecca
+/model.24/Slice_12_output_0: 3bffa73c
+(Unnamed Layer* 198) [Shuffle]_output: 3c810204
+/model.24/Mul_34_output_0: 3c7fa73c
+(Unnamed Layer* 200) [Shuffle]_output: 3b810204
+/model.24/Sub_2_output_0: 3c3f263a
+(Unnamed Layer* 202) [Constant]_output: 3df1e3c8
+/model.24/Add_2_output_0: 3e0030c5
+(Unnamed Layer* 205) [Shuffle]_output: 3e810204
+/model.24/Mul_35_output_0: 408030c5
+/model.24/ScatterND_4_output_0: 408030c5
+/model.24/Slice_15_output_0: 3c008bc0
+(Unnamed Layer* 210) [Shuffle]_output: 3c810204
+/model.24/Mul_41_output_0: 3c808bc0
+(Unnamed Layer* 212) [Shuffle]_output: 3c810204
+/model.24/Pow_2_output_0: 3d0015e8
+(Unnamed Layer* 214) [Constant]_output: 3f499326
+/model.24/Mul_42_output_0: 40415886
+/model.24/ScatterND_5_output_0: 408030c5
+/model.24/Reshape_11_output_0: 408030c5
+output0: 4080ef20
