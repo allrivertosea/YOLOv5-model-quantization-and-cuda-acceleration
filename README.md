@@ -26,6 +26,7 @@ cd bin
 ## 推理性能
 
 CUDA编程加速说明：前处理resize和BGR2RGB、后处理decode、affine和NMS均编写核函数进行CUDA加速
+
 TensorRT加速说明：模型转换为onnx格式后，量化到INT8精度
 
 前处理和后处理CUDA加速，INT8模型推理加速
