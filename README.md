@@ -1,4 +1,4 @@
-# yolov5-quantization-and-infer
+# YOLOv5-model-quantization-and-cuda-acceleration
 Quantization and deployment of YOLOv5 vehicle and pedestrian 8-object detection model using TensorRT, with CUDA programming for accelerating pre-processing and post-processing.
 ![INT8推理结果](https://raw.githubusercontent.com/allrivertosea/YOLOv5-model-quantization-and-inference/main/data/result/car4-detect-int8.png)
 ## 项目简介
